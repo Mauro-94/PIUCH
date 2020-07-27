@@ -1,0 +1,36 @@
+@media (max-width: 600px) {
+
+  .main_section{
+    display: inherit;
+    height: auto;
+
+  }
+  .products{
+    display:inherit;
+    height: auto;
+    padding: 30px;
+    align-items: stretch;
+
+  }
+  .product{
+    padding-top: 180px;
+    padding-bottom: 350px;
+
+  }
+  .recetas{
+    display:inherit;
+    height: auto;
+    padding: 60px;
+    align-items: center;
+
+  }
+
+  .comentarios{
+    display: inherit;
+    height: auto;
+    align-items: center;
+    padding: 0;
+  }
+
+
+}
